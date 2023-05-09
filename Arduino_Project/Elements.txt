@@ -1,0 +1,7 @@
+Arduino Uno - Microcontroller
+Fan - Motor
+LED BIRY -LED Light
+LM016L- LCD Light
+LM35 - Temperature sensor
+RES - Resistor
+L293d - motor driver ic
